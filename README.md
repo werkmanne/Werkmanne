@@ -1,4 +1,4 @@
-<img src="image.jpeg" alt="Description for image" width="500" height="500">
+<img src="image.jpeg" alt="Description for image" width="1400" height="350">
 
 ### Hi there my name is Bello Afeez 👋
 
