@@ -21,9 +21,6 @@ I made this project as it my first projet in github just for fun, it allows me d
 <p>##Skills and Experience:</p>
 
 <ul>
-<li>⛈ AWS</li>
-<li>💻 Microsoft 365</li>
-<li>💻 Microsoft 365</li>
 <li>🔭 I’m always working on AWS Projects</li>
 <li>🌱 Terraform, Ansible, CI/CD pipeline (Github Action), Kubernetes, Docker</li>
 <li>👯 I’m looking to collaborate on Cloud Computing projects</li>
