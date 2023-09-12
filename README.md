@@ -9,7 +9,7 @@ In addition to my technical skills, I am also well-versed in Agile methodologies
 
 I also use Drow.io to draw AWS architecture diagrams, this helps me to visualize and communicate the infrastructure design and dependencies to the team members and stakeholders. This improves the efficiency of the team and ensures that projects are delivered on time, on budget, and to the highest quality. Overall, I believe that good documentation and use of agile methodologies, along with visualization tools such as Drow.io, are key to delivering successful projects and I make sure to apply them in my daily work.
 
-Currently working with Cad Defined Intern to deliver high-quality and scalable solutions.
+Currently working with Cad Defined (Intern) to deliver high-quality and scalable solutions.
 
 in my previous studies
 
@@ -24,9 +24,9 @@ I made this project as it my first projet in github just for fun, it allows me d
 <li>⛈ AWS</li>
 <li>💻 Microsoft 365</li>
 <li>💻 Microsoft 365</li>
-<li>🔭 I’m currently working on AWS Projects</li>
-<li>🌱 I’m currently learning Terraform</li>
-<li>👯 I’m looking to collaborate on Cloud Computing</li>
+<li>🔭 I’m always working on AWS Projects</li>
+<li>🌱 Terraform, Ansible, CI/CD pipeline (Github Action), Kubernetes, Docker</li>
+<li>👯 I’m looking to collaborate on Cloud Computing projects</li>
 <li>🤔 I’m looking for help with coding</li>
 
 </ul>
