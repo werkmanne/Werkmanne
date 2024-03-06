@@ -1,43 +1,90 @@
-<img src="image.jpeg" alt="Description for image" width="1400" height="250">
+![Description for image](image.jpeg)
 
-### Hi there my name is Bello Afeez 👋
+### Hi there, my name is Bello Afeez 👋
 
-<p>I am a Junior DevOps Engineer with experience in deploying and managing infrastructure using HashiCorp Terraform and Github Action. Proficient in AWS services such as CloudWatch, S3, Route 53, VPC, EC2, IAM Users & Roles, Lambda and serverless architecture. Skilled in using Docker and Linux, with experience in a widely-used open-source implementation of the Lightweight Directory Access Protocol known as LDAP.
+I am a DevOps Engineer with experience in deploying and managing infrastructure using HashiCorp Terraform and Github Action. Proficient in AWS services such as CloudWatch, S3, Route 53, VPC, EC2, IAM Users & Roles, Lambda, and serverless architecture. Skilled in using Docker and Linux, with experience in a widely-used open-source implementation of the Lightweight Directory Access Protocol known as LDAP.
 
 In addition to my technical skills, I am also well-versed in Agile methodologies and use tools such as Jira to manage and track tasks and projects. I understand the importance of clear and concise documentation and use Confluence to document processes and procedures. This helps ensure that all team members have a clear understanding of what needs to be done, how it needs to be done, and when it needs to be done.
 
-I also use Drow.io to draw AWS architecture diagrams, this helps me to visualize and communicate the infrastructure design and dependencies to the team members and stakeholders. This improves the efficiency of the team and ensures that projects are delivered on time, on budget, and to the highest quality. Overall, I believe that good documentation and use of agile methodologies, along with visualization tools such as Drow.io, are key to delivering successful projects and I make sure to apply them in my daily work.
+I also use Draw.io to draw AWS architecture diagrams, this helps me to visualize and communicate the infrastructure design and dependencies to the team members and stakeholders. This improves the efficiency of the team and ensures that projects are delivered on time, on budget, and to the highest quality. Overall, I believe that good documentation and use of agile methodologies, along with visualization tools such as Draw.io, are key to delivering successful projects and I make sure to apply them in my daily work.
 
-Currently working with Cad Defined (Intern) to deliver high-quality and scalable solutions.
+# Cloud-DevOps-Projects
 
-in my previous studies
+This repository contains most of the real-world projects I carried out during my Cloud/DevOps career journey.
 
-I am passionate about technology and the role it plays in enabling businesses to achieve their goals. I am excited to continue to grow my career in the field of DevOps and look forward to contributing to the success of future projects and teams.
+## Table Of Contents
 
-I made this project as it my first projet in github just for fun, it allows me demonstrate my technical skill in cloud computing. Very soon I am going to upload several projects that will help me strengthen my ability of doing the right things at the right time. </p>
+- [Introduction](#introduction)
+- [Project 1: Comprehensive AWS Infrastructure Setup](#project-1-comprehensive-aws-infrastructure-setup)
+  - [Overview](#overview)
+  - [Technologies Used](#technologies-used)
+  - [Key Learnings](#key-learnings)
+- [Project 2: Implementing CI/CD Pipelines with GitHub Actions](#project-2-implementing-cicd-pipelines-with-github-actions)
+  - [Overview](#overview-1)
+  - [Technologies Used](#technologies-used-1)
+  - [Key Learnings](#key-learnings-1)
+- [Project 3: Containerization with Docker and Kubernetes](#project-3-containerization-with-docker-and-kubernetes)
+  - [Overview](#overview-2)
+  - [Technologies Used](#technologies-used-2)
+  - [Key Learnings](#key-learnings-2)
+- [Contributing](#contributing)
+- [License](#license)
 
+## Introduction
 
-<p>##Skills and Experience:</p>
+[Your introduction here]
 
-<ul>
-<li>🔭 I’m always working on AWS Projects</li>
-<li>🌱 Terraform, Ansible, CI/CD pipeline (Github Action), Kubernetes, Docker</li>
-<li>👯 I’m looking to collaborate on Cloud Computing projects</li>
-<li>🤔 I’m looking for help with coding</li>
+## Project 1: Comprehensive AWS Infrastructure Setup
 
-</ul>
+### Overview
 
-<!--
-**werkmanne/Werkmanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Project details here]
 
-Here are some ideas to get you started:
+### Technologies Used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS EC2
+- AWS S3
+- AWS VPC
+
+### Key Learnings
+
+[Key learnings here]
+
+## Project 2: Implementing CI/CD Pipelines with GitHub Actions
+
+### Overview
+
+[Project details here]
+
+### Technologies Used
+
+- GitHub Actions
+- Docker
+
+### Key Learnings
+
+[Key learnings here]
+
+## Project 3: Containerization with Docker and Kubernetes
+
+### Overview
+
+[Project details here]
+
+### Technologies Used
+
+- Docker
+- Kubernetes
+
+### Key Learnings
+
+[Key learnings here]
+
+## Contributing
+
+[Your guidelines for contributing to the project]
+
+## License
+
+[License information]
+
