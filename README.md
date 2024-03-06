@@ -50,3 +50,5 @@ Project 11-  [Deploy A Docker App on AWS ECS Cluster](https://www.youtube.com/wa
 Project 12-  [Host a Secure Wordpress Website on AWS using Amazon Lightsail | Secure with SSL Certificate](https://www.youtube.com/watch?v=dNh7LWydGzQ&t=1s "LightSail")
 
 
+Project 13-  [S3 Static Website Hosting + Cloudfront + Route 53](https://youtu.be/67p1tCd1OcA "S3+CF")
+
