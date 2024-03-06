@@ -20,7 +20,7 @@ Project 1-  [AWS Cloud Cost Optimization with Lambda - Identifying Stale Resourc
 Project 2-  [Deploy a Highly Available 3-tier WordPress Website on AWS](https://medium.com/@werkjober/how-to-deploy-a-wordpress-website-on-aws-a6120eb06bae "Wordpress")
 
 
-Project 3-  [Host A Highly Available Static Website On AWS](https://medium.com/@werkjober/how-to-host-a-static-website-on-aws-a0c2588b1765 "Static Website")
+Project 3-  [DEPLOY A STATIC WEBSITE ON AWS WITH ANSIBLE](https://github.com/werkmanne/ansible-playbook "Ansible")
 
 
 Project 4-  [Deploy a Dynamic eCommerce Web App on AWS ](https://medium.com/@werkjober/host-a-dynamic-web-application-on-aws-nestapp-dbca29a55372 "Dynamic Website")
@@ -38,7 +38,7 @@ Project 7-  [VPC with Public and Private Subnet in AWS | 3-tier VPC ](https://ww
 Project 8-  [Use EC2 Instance Connect Endpoint | Securely Access AWS EC2 Instances](https://www.youtube.com/watch?v=LxWhXGlvROM&t=4s "EICE")
 
 
-Project 9-  [Migrate MySQL Database to AWS RDS with Flyway](https://www.youtube.com/watch?v=VqDHU73nl64&t=773s "database")
+Project 9-  [Host A Highly Available Static Website On AWS](https://medium.com/@werkjober/how-to-host-a-static-website-on-aws-a0c2588b1765 "Static Website")
 
 
 Project 10-  [Deploy a High-Availability 2-Tier Website on AWS](https://www.youtube.com/watch?v=pzdKlJzQtHA&t=759s "VPC")
@@ -51,4 +51,8 @@ Project 12-  [Host a Secure Wordpress Website on AWS using Amazon Lightsail | Se
 
 
 Project 13-  [S3 Static Website Hosting + Cloudfront + Route 53](https://youtu.be/67p1tCd1OcA "S3+CF")
+
+
+Project 14-  [Migrate MySQL Database to AWS RDS with Flyway](https://www.youtube.com/watch?v=VqDHU73nl64&t=773s "database")
+
 
