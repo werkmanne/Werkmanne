@@ -26,7 +26,7 @@ Project 3-  [Host A Highly Available Static Website On AWS](https://medium.com/@
 Project 4-  [Deploy a Dynamic eCommerce Web App on AWS ](https://medium.com/@werkjober/host-a-dynamic-web-application-on-aws-nestapp-dbca29a55372 "Dynamic Website")
 
 
-Project 5-  [Host A Dynamic Web App on AWS with Docker, ECR, and ECS](https://medium.com/@werkjober/host-a-dynamic-web-app-on-aws-with-docker-ecr-and-ecs-3d1a4fab96d6 "Dynamic Website with ECS")
+Project 5-  [CI/CD Project with Github-Action and Terraform](https://github.com/werkmanne/rentzone-github-action-terraform-project "Dynamic Website with ECS Terraform")
 
 
 Project 6-  [Host A Dynamic Web App on AWS with Docker, ECR, and ECS](https://medium.com/@werkjober/host-a-dynamic-web-app-on-aws-with-docker-ecr-and-ecs-3d1a4fab96d6 "Dynamic Website with ECS")
