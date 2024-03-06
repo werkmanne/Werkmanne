@@ -13,5 +13,5 @@ I also use Draw.io to draw AWS architecture diagrams, this helps me to visualize
 This repository contains most of the real-world projects I carried out during my Cloud/DevOps career journey.
 
 ## Table Of Contents
-[AWS Cloud Cost Optimization - Identifying Stale Resources](https://www.google.com](https://github.com/werkmanne/lambda-cost-optimization-project)https://github.com/werkmanne/lambda-cost-optimization-project "Cost Optimiaztion")
+[Project - AWS Cloud Cost Optimization - Identifying Stale Resources](https://www.google.com](https://github.com/werkmanne/lambda-cost-optimization-project)https://github.com/werkmanne/lambda-cost-optimization-project "Cost Optimiaztion")
 
