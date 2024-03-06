@@ -20,7 +20,7 @@ Project 1-  [AWS Cloud Cost Optimization with Lambda - Identifying Stale Resourc
 Project 2-  [Deploy a Highly Available 3-tier WordPress Website on AWS](https://medium.com/@werkjober/how-to-deploy-a-wordpress-website-on-aws-a6120eb06bae "Wordpress")
 
 
-Project 3-  [DEPLOY A STATIC WEBSITE ON AWS WITH ANSIBLE](https://github.com/werkmanne/ansible-playbook "Ansible")
+Project 3-  [Deploy a Highly Available Website with Ansible](https://github.com/werkmanne/ansible-playbook "Ansible")
 
 
 Project 4-  [Deploy a Dynamic eCommerce Web App on AWS ](https://medium.com/@werkjober/host-a-dynamic-web-application-on-aws-nestapp-dbca29a55372 "Dynamic Website")
