@@ -32,7 +32,7 @@ Project 5-  [CI/CD Project with Github-Action and Terraform](https://github.com/
 Project 6-  [Host A Dynamic Web App on AWS with Docker, ECR, and ECS](https://medium.com/@werkjober/host-a-dynamic-web-app-on-aws-with-docker-ecr-and-ecs-3d1a4fab96d6 "Dynamic Website with ECS")
 
 
-Project 7-  [VPC with Public and Private Subnet in AWS | 3-tier VPC ](https://www.youtube.com/watch?v=kI_1mdJXQz0&t=4s "3-tier VPC")
+Project 7-  [Terraform Serverless deployment with Lambda, Postgre, RabbitMQ](https://github.com/werkmanne/terraform-serverless-lambda-project "Lambda Serverless")
 
 
 Project 8-  [Use EC2 Instance Connect Endpoint | Securely Access AWS EC2 Instances](https://www.youtube.com/watch?v=LxWhXGlvROM&t=4s "EICE")
@@ -54,5 +54,9 @@ Project 13-  [S3 Static Website Hosting + Cloudfront + Route 53](https://youtu.b
 
 
 Project 14-  [Migrate MySQL Database to AWS RDS with Flyway](https://www.youtube.com/watch?v=VqDHU73nl64&t=773s "database")
+
+
+Project 15-  [VPC with Public and Private Subnet in AWS | 3-tier VPC ](https://www.youtube.com/watch?v=kI_1mdJXQz0&t=4s "3-tier VPC")
+
 
 
